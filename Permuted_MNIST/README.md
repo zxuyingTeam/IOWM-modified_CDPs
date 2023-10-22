@@ -37,6 +37,13 @@ python run_permuted_10_mnist_3Layers_immune.py
 python run_permuted_10_mnist_3Layers_2000_immune.py
 ```
 
+### Code for [784-100-100-10] Layers ten Shuffled MNIST (96.24%)
+
+```
+python run_permuted_10_mnist_3Layers_100_immune.py
+```
+
+
 ### Code for [784-100-10] Layers ten Shuffled MNIST (96.21%)
 
 ```
